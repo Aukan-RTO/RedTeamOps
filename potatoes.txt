@@ -1,4 +1,3 @@
-
 WINDOWS PRIVILEGE ESCALATION - Potatoes: 
 
 https://jlajara.gitlab.io/Potatoes_Windows_Privesc
